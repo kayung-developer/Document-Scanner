@@ -61,7 +61,7 @@ pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tessera
 
 - After setting up everything, you can run the application using:
 ```bash
-python camscanner_app.py
+python scanner.py
 ```
 ### Application Overview
 #### GUI Layout
