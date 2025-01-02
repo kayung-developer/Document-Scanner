@@ -35,8 +35,8 @@ pip install customtkinter opencv-python pytesseract fpdf boto3 pillow numpy
 
 - Clone the repository to your local machine.
 ```bash
-git clone https://github.com/yourusername/ai-camscanner.git
-cd ai-camscanner
+git clone https://github.com/kayung-developer/Document-Scanner.git
+cd Document-Scanner
 ```
 2. Install Dependencies:
 
